@@ -43,7 +43,6 @@ Existen varios tipos de numeros reales creados para diferentes necesidades del s
 >Ejemplo Numeros Racionales:
 > 
 > **$$\frac{1}{2} $$**
->
 > **$$\frac{-3}{2} $$**
 > **$$46=\frac{46}{1} $$**
 > **$$0.17=\frac{17}{100} $$**
