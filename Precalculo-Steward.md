@@ -30,8 +30,20 @@
 Existen varios tipos de numeros reales creados para diferentes necesidades del ser humano como:
 
 - `Numeros Naturales` Este tipo de numeros son los que van desde 0 hasta infinito 
->Ejemplo: Numeros Naturales [^1]
-[^1] Prueba de comentario
+Ejemplo: Numeros Naturales
+
+
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
+
+$$
+x=\frac{-b\pm\sqrt{b^2-4 a c}}{2a}.
+$$
 
 >[!note]
 >useful tatata
